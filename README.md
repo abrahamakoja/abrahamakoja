@@ -88,13 +88,13 @@ Design
 
 Technology should solve real problems, not create more for people.
 
-I enjoy building systems that transform raw information into tools that small- to medium-scale businesses and individuals can actually use.
+I enjoy building systems that transform raw information into tools that small to medium-scale businesses and individuals can actually use.
 
 ---
 
 ## 📬 Contact
 
 If you're interested in collaborating or discussing ideas:
-contact me via the following;
-📧email: abrahamakoja.dev@gmail.com
-🐣x.com(twitter): https://x.com/3rdWorldNinja
+Contact me via the following;
+- 📧email: abrahamakoja.dev@gmail.com
+- 🐣x.com(twitter): https://x.com/3rdWorldNinja
