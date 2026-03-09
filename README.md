@@ -1,6 +1,6 @@
 # 👋 HI
 
-I am Abraham Akoja, a self-taught software developer from Nigeria. I love building business-focused solutions for regular people and SMEs.
+I am Abraham Akoja, a self-taught software developer from Nigeria. I love building data-focused solutions for regular people and SMEs.
 
 ---
 
