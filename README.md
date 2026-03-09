@@ -6,7 +6,7 @@ I am Abraham Akoja, a self-taught software developer from Nigeria. I love buildi
 
 ## 🧠 What I'm Building
 
-**AI Analytics engine for prediction markets** 
+**AI Analytics engine for prediction markets** /n
 • Data pipelines for structured event forecasting  
 • Tools for analyzing market and OSINT data  
 • Web interfaces and dashboards for complex data systems  
