@@ -6,7 +6,10 @@ I am Abraham Akoja, a self-taught software developer from Nigeria. I love buildi
 
 ## 🧠 What I'm Building
 
-## **AI Analytics engine for prediction markets** 
+## ** 1. multi-chain Lending platform **
+. https://github.com/abrahamakoja/butteryswap-protocol
+
+## ** 2. AI Analytics engine for prediction markets** 
 
 • Data pipelines for structured event forecasting  
 • Tools for analyzing market and OSINT data  
@@ -18,6 +21,8 @@ My work focuses on turning messy real-world data into systems that generate prac
 
 ## 🔬 Areas of Interest
 
+- Security research (Solidity)
+- Blockchain Development (solidity)
 - Prediction markets  
 - Data engineering  
 - Machine learning systems  
