@@ -85,7 +85,7 @@ Frontend
 
 Design
 
-- Figma  
+- Figma
 
 ---
 
@@ -102,4 +102,4 @@ I enjoy building systems that transform raw information into tools that small to
 If you're interested in collaborating or discussing ideas:
 Contact me via the following;
 - 📧email: abrahamakoja.dev@gmail.com
-- 🐣x.com(twitter): https://x.com/3rdWorldNinja
+- 🐣x.com(twitter): (https://x.com/akoja_abraham)
